@@ -1,2 +1,2 @@
-# project1
+# Patient Information Management System
 My first project
