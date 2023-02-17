@@ -1,2 +1,2 @@
 # Patient Information Management System
-My first project ever system project
+My first ever system project
